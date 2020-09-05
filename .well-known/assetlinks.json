@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "asoner.syamamoto.example.amazonpay_v2_flutter",
-    "sha256_cert_fingerprints":
-    ["8E:82:EC:37:FE:9F:C3:41:3F:E8:8D:60:23:97:8B:0F:34:2F:2A:13:9A:1E:F5:8C:79:CB:F1:E6:7C:B2:6E:B9"]
-  }
-}]
